@@ -1,2 +1,0 @@
-hello world.
-https://git-scm.com/download/win
